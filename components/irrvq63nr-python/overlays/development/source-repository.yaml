@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: irrvq63nr-python-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/irrvq63nr-python
